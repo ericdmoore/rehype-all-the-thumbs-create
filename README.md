@@ -4,7 +4,7 @@ Supporting `rehype-all-the-thumbs` by creating the thumbnails based on the input
 ## Overview
 
 _Configuration_:
-- a SelectAll string
+- a default `srcs` set
 
 _Input_:
 - a HAST tree
