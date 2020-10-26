@@ -1,6 +1,8 @@
 # rehype-all-the-thumbs-create
 Supporting [`rehype-all-the-thumbs`](https://github.com/ericdmoore/rehype-all-the-thumbs) by creating the thumbnails based on the input elements
 
+> rehype-👍🏿👍🏼👍🏽👍🏻👍🏾 (make new vfiles based on inputs)
+
 ## Overview
 
 _Configuration_:
